@@ -1,0 +1,9 @@
+# dataset (download separately, see README)
+data/
+
+# model weights and caches
+results/*.pt
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
